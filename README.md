@@ -1,5 +1,7 @@
 # weatherui
 
+In const file, add your own API key
+
 Weather app 
  - Openweatherapi
  - Upcoming day forecast
